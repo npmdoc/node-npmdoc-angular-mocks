@@ -1,6 +1,6 @@
 # npmdoc-angular-mocks
 
-#### api documentation for  [angular-mocks (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-mocks.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-mocks) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-mocks.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-mocks)
+#### basic api documentation for  [angular-mocks (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-mocks.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-mocks) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-mocks.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-mocks)
 
 #### AngularJS mocks for testing
 
@@ -73,7 +73,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.6.4"
+    "version": "1.6.4",
+    "bin": {}
 }
 ```
 
